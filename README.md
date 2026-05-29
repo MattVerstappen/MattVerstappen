@@ -262,7 +262,7 @@
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=mattverstappen&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="180" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mattverstappen&theme=tokyonight&hide_border=true" alt="GitHub streak" height="180" />
+      <img src="https://streak-stats.demolab.com?user=mattverstappen&theme=tokyonight&hide_border=true" alt="GitHub streak" height="180" />
     </td>
   </tr>
   <tr>
