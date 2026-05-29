@@ -200,25 +200,54 @@
 
 <br/>
 
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MattVerstappen&repo=Showcase2025&theme=tokyonight&hide_border=true)](https://github.com/MattVerstappen/Showcase2025)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MattVerstappen&repo=strategy-integreated-airsoftx&theme=tokyonight&hide_border=true)](https://github.com/MattVerstappen/strategy-integreated-airsoftx)
-
-</div>
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MattVerstappen&repo=Unity-Reusable-Assets&theme=tokyonight&hide_border=true)](https://github.com/MattVerstappen/Unity-Reusable-Assets)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MattVerstappen&repo=mattverstappen.github.io&theme=tokyonight&hide_border=true)](https://github.com/MattVerstappen/mattverstappen.github.io)
-
-</div>
+<table align="center" width="100%" cellpadding="10" cellspacing="0" style="max-width:1100px;border:1px solid #9333EA;background:#1A1025;">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://matthewderekrall.com/project.html?slug=cancer-crusher" target="_blank">
+        <img src="assets/pngs/Projects/cancer-crusher.jpg" alt="Cancer Crusher" width="100%" style="border:2px solid #9333EA;border-radius:6px;" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/CANCER_CRUSHER-View_Project-9333EA?style=for-the-badge&labelColor=0D0A14" alt="Cancer Crusher" />
+      </a>
+      <br/>
+      <sub>Unity · C# · Health awareness game</sub>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://matthewderekrall.com/project.html?slug=cardmageddon" target="_blank">
+        <img src="assets/pngs/Projects/cardmageddon.jpg" alt="Cardmageddon" width="100%" style="border:2px solid #9333EA;border-radius:6px;" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/CARDMAGEDDON-View_Project-9333EA?style=for-the-badge&labelColor=0D0A14" alt="Cardmageddon" />
+      </a>
+      <br/>
+      <sub>Unity · C# · Card-based action game</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://matthewderekrall.com/project.html?slug=timmys-revenge" target="_blank">
+        <img src="assets/pngs/Projects/timmys-revenge.jpg" alt="Timmy's Revenge" width="100%" style="border:2px solid #9333EA;border-radius:6px;" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/TIMMYS_REVENGE-View_Project-9333EA?style=for-the-badge&labelColor=0D0A14" alt="Timmy's Revenge" />
+      </a>
+      <br/>
+      <sub>Unity · C# · Action shooter</sub>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://matthewderekrall.com/project.html?slug=kennys-khaos" target="_blank">
+        <img src="assets/pngs/Projects/kennys-khaos.jpg" alt="Kenny's Khaos" width="100%" style="border:2px solid #9333EA;border-radius:6px;" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/KENNYS_KHAOS-View_Project-9333EA?style=for-the-badge&labelColor=0D0A14" alt="Kenny's Khaos" />
+      </a>
+      <br/>
+      <sub>Unity · C# · Top-down shooter</sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/MattVerstappen?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/VIEW_ALL_REPOS-9333EA?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0D0A14" alt="View All Repos" />
+  <a href="https://matthewderekrall.com" target="_blank">
+    <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-9333EA?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=0D0A14" alt="View All Projects" />
   </a>
 </div>
 
