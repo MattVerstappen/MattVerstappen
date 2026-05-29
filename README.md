@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=700&size=28&duration=2500&pause=900&color=9333EA&center=true&vCenter=true&width=1000&lines=Matthew+Derek+Rall;Game+Developer+%26+Designer+%C2%B7+BSc+%C2%B7+Honours;Crafting+Immersive+Interactive+Experiences;Open+to+International+Opportunities" alt="Animated typing" width="100%" style="max-width:1000px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=700&size=28&duration=2500&pause=900&color=9333EA&center=true&vCenter=true&width=1000&lines=Matthew+Derek+Rall;Game+Developer+%26+Designer+%C2%B7+BSc+%C2%B7+Honours;I+build+games+people+don%27t+want+to+put+down;Open+to+Work+%C2%B7+Relocating+to+the+USA" alt="Animated typing" width="100%" style="max-width:1000px;" />
 </div>
 
 <div align="center">
-  <sub>Formally qualified game developer with dual degrees — building worlds players remember.</sub>
+  <sub>Game dev and designer with two degrees. I build games people don't want to put down.</sub>
 </div>
 
 <br/>
@@ -45,13 +45,13 @@
   <tr>
     <td align="left" valign="top">
       <p>
-        I'm a <strong>game developer and designer</strong> with a Bachelor of Information Science in Game Design & Development (NQF 7) and a BA Honours in Design Leadership (NQF 8) — both from Emeris Vega. My work spans the full development pipeline: from concept and system design through to Unity/Unreal implementation, shaders, and UI/UX, with a research background in VR education that earned a published thesis.
+        I'm a <strong>game developer and designer</strong> with a BIS in Game Design & Development (NQF 7) and an Honours in Design Leadership (NQF 8), both from Emeris Vega. I work across the whole pipeline, from the first design sketches all the way through to Unity and Unreal builds, shaders, UI, and everything in between. I also wrote and published a thesis on VR in game dev education, which got me thinking a lot about how people actually learn through play.
       </p>
       <p>
-        I'm passionate about building immersive, playable systems that feel alive — whether that's a real-time multiplayer experience, a narrative-driven indie title, or an interactive prototype that pushes the medium forward. I bring both the technical rigor of a programmer and the creative vision of a designer.
+        I genuinely care about making games that feel good to play. Whether it's something multiplayer, a story-driven indie, or something more experimental, I try to bring both the coding side and the design thinking together. For me those two things are inseparable.
       </p>
       <p>
-        Currently seeking <strong>international opportunities</strong> in game development, interactive design, or UI/UX — roles where quality of craft matters. My portfolio showcases shipped projects and research across Unity, Unreal, C#, and beyond.
+        Right now I'm looking for opportunities internationally, with the US as my main focus. My portfolio covers shipped games, research projects and prototypes built in Unity, Unreal, C# and more. If something on there catches your eye, reach out.
       </p>
       <p>
         📄 <a href="https://doi.org/10.13140/RG.2.2.32898.95688">Published Honours Thesis</a> &nbsp;|&nbsp;
@@ -75,15 +75,15 @@
   <tr>
     <td align="left" valign="top" width="50%">
       <img src="https://img.shields.io/badge/BUILDING-9333EA?style=flat-square&labelColor=0D0A14" alt="Building" /><br/>
-      &nbsp;&nbsp;🎮 Showcase2025 — Unity game dev showcase project<br/>
-      &nbsp;&nbsp;🌐 Portfolio v2 — expanding matthewderekrall.com<br/>
+      &nbsp;&nbsp;🎮 Showcase2025 - a Unity game dev showcase<br/>
+      &nbsp;&nbsp;🌐 matthewderekrall.com v2 revamp<br/>
       &nbsp;&nbsp;⚙️ Unity Reusable Assets library
     </td>
     <td align="left" valign="top" width="50%">
       <img src="https://img.shields.io/badge/OPEN_TO-00d26a?style=flat-square&labelColor=0D0A14" alt="Open to" /><br/>
-      &nbsp;&nbsp;💼 Full-time game developer / designer roles<br/>
-      &nbsp;&nbsp;🌍 International & remote positions<br/>
-      &nbsp;&nbsp;🤝 Indie collaborations & contract work
+      &nbsp;&nbsp;💼 Full-time game dev or designer roles<br/>
+      &nbsp;&nbsp;🌍 International and remote positions<br/>
+      &nbsp;&nbsp;🤝 Indie collabs and contract projects
     </td>
   </tr>
 </table>
@@ -336,9 +336,9 @@
       NQF Level: 8 &nbsp;·&nbsp; Institution: Emeris Vega
       <br/><br/>
       <blockquote>
-        <strong>📖 Published Research</strong><br/>
+        <strong>📖 Something I'm really proud of</strong><br/>
         <em>Exploring Virtual Reality in Game Development Education: Student Perspectives on Learning</em><br/>
-        Honours Thesis &nbsp;·&nbsp; Emeris Vega &nbsp;·&nbsp; ResearchGate
+        Honours thesis I wrote at Emeris Vega, published on ResearchGate
       </blockquote>
       <br/>
       <a href="https://doi.org/10.13140/RG.2.2.32898.95688">
