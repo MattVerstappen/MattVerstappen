@@ -3,108 +3,28 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Matthew+Derek+Rall;Indie+Game+Developer+%7C+Programmer;Designing+playable+systems+for+the+future" alt="Animated typing" width="100%" style="max-width:1000px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Matthew+Derek+Rall;Game+Developer+%26+Designer+%C2%B7+BSc+%C2%B7+Honours;Crafting+Immersive+Interactive+Experiences;Open+to+International+Opportunities" alt="Animated typing" width="100%" style="max-width:1000px;" />
 </div>
 
 <div align="center">
-  <sub>Neon-powered creator building immersive game experiences and futuristic interfaces.</sub>
+  <sub>Formally qualified game developer with dual degrees — building worlds players remember.</sub>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="assets/pngs/Me.jpeg" alt="Matthew Derek Rall" width="240" height="240" style="border-radius:50%; border:3px solid #8b5cf6; box-shadow:0 0 16px #8b5cf6; object-fit:cover;" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AGE-22-8b5cf6?style=for-the-badge&labelColor=000000" alt="Age" />
-  <img src="https://img.shields.io/badge/PHONE-%2B27_081_475_2986-8b5cf6?style=for-the-badge&labelColor=000000" alt="Phone" />
-  <img src="https://img.shields.io/badge/EMAIL-matthewderekrall%40gmail.com-8b5cf6?style=for-the-badge&labelColor=000000" alt="Email" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/mattverstappen" target="_blank"><img src="https://img.shields.io/badge/GITHUB-8b5cf6?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/matthew-rall-60b242269" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/mattverstappen1" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-8b5cf6?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=000000" alt="Instagram" /></a>
-  <a href="https://mattverstappen.github.io/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=000000" alt="Portfolio" /></a>
+  <img src="assets/pngs/Me.jpeg" alt="Matthew Derek Rall" width="200" height="200" style="border-radius:50%; border:3px solid #8b5cf6; box-shadow:0 0 20px #8b5cf6; object-fit:cover;" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="#anime-info"><img src="https://img.shields.io/badge/ANIME_INFO-8b5cf6?style=for-the-badge&labelColor=000000" alt="Anime Info" /></a>
-  <a href="#tech-stack"><img src="https://img.shields.io/badge/TECH_STACK-8b5cf6?style=for-the-badge&labelColor=000000" alt="Tech Stack" /></a>
-  <a href="#github-stats"><img src="https://img.shields.io/badge/GITHUB_STATS-8b5cf6?style=for-the-badge&labelColor=000000" alt="GitHub Stats" /></a>
-  <a href="#academic-background"><img src="https://img.shields.io/badge/ACADEMIC_BACKGROUND-8b5cf6?style=for-the-badge&labelColor=000000" alt="Academic Background" /></a>
-  <a href="#my-build"><img src="https://img.shields.io/badge/MY_BUILD-8b5cf6?style=for-the-badge&labelColor=000000" alt="My Build" /></a>
+  <a href="https://mattverstappen.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_VIEW_MY_PORTFOLIO-8b5cf6?style=for-the-badge&logoColor=ffffff&labelColor=0d0014&color=8b5cf6" alt="Portfolio" height="38" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/OPEN_TO_WORK-00d26a?style=for-the-badge&labelColor=0d0014" alt="Open to Work" height="38" />
 </div>
-
-<div align="center">
-  <img src="assets/banners/separator.svg" alt="Neon separator" width="100%" />
-</div>
-
-<br/>
-
-<a id="anime-info"></a>
-<div align="center">
-  <img src="assets/banners/anime-info.svg" alt="Anime Info banner" width="100%" />
-</div>
-
-<!-- Top 3 Anime: single fixed 3-column table so title always matches middle poster -->
-<table align="center" width="100%" cellpadding="10" cellspacing="0" style="max-width:1100px;border:1px solid #8b5cf6;background:#06030b;table-layout:fixed;">
-  <tr>
-    <td align="center" width="33.33%" valign="top"></td>
-    <td align="center" width="33.33%" valign="top">
-      <img src="https://img.shields.io/badge/TOP_3_ANIME-22d3ee?style=for-the-badge&labelColor=000000" alt="Top 3 Anime" />
-    </td>
-    <td align="center" width="33.33%" valign="top"></td>
-  </tr>
-  <tr>
-    <td align="center" width="33.33%" valign="top">
-      <img src="assets/pngs/Anime/ThatTimeIGotReincarnatedAsASlime.jpg" alt="That Time I Got Reincarnated As A Slime" width="92%" style="max-width:260px;height:auto;border:2px solid #8b5cf6;" />
-      <br/>
-      <img src="https://img.shields.io/badge/That_Time_I_Got_Reincarnated_As_A_Slime-8b5cf6?style=flat-square&labelColor=000000" alt="Anime 1" />
-    </td>
-    <td align="center" width="33.33%" valign="top">
-      <img src="assets/pngs/Anime/WelcomeToTheDemonSchoolIruma-kun.jpg" alt="Welcome To The Demon School Iruma-kun" width="92%" style="max-width:260px;height:auto;border:2px solid #8b5cf6;" />
-      <br/>
-      <img src="https://img.shields.io/badge/Welcome_To_The_Demon_School_Iruma--kun-8b5cf6?style=flat-square&labelColor=000000" alt="Anime 2" />
-    </td>
-    <td align="center" width="33.33%" valign="top">
-      <img src="assets/pngs/Anime/MashleMagicAndMuscles.jpg" alt="Mashle: Magic And Muscles" width="92%" style="max-width:260px;height:auto;border:2px solid #8b5cf6;" />
-      <br/>
-      <img src="https://img.shields.io/badge/Mashle_Magic_And_Muscles-8b5cf6?style=flat-square&labelColor=000000" alt="Anime 3" />
-    </td>
-  </tr>
-</table>
-
-<!-- Top 3 Characters: single fixed 3-column table so title always matches middle poster -->
-<table align="center" width="100%" cellpadding="10" cellspacing="0" style="max-width:1100px;border:1px solid #8b5cf6;background:#06030b;table-layout:fixed;">
-  <tr>
-    <td align="center" width="33.33%" valign="top"></td>
-    <td align="center" width="33.33%" valign="top">
-      <img src="https://img.shields.io/badge/TOP_3_CHARACTERS-22d3ee?style=for-the-badge&labelColor=000000" alt="Top 3 Characters" />
-    </td>
-    <td align="center" width="33.33%" valign="top"></td>
-  </tr>
-  <tr>
-    <td align="center" width="33.33%" valign="top">
-      <img src="assets/pngs/Characters/rimuru_tempest.jpg" alt="Rimuru Tempest" width="92%" style="max-width:260px;height:auto;border:2px solid #8b5cf6;" />
-      <br/>
-      <img src="https://img.shields.io/badge/Rimuru_Tempest-8b5cf6?style=flat-square&labelColor=000000" alt="Character 1" />
-    </td>
-    <td align="center" width="33.33%" valign="top">
-      <img src="assets/pngs/Characters/asta.jpg" alt="Asta" width="92%" style="max-width:260px;height:auto;border:2px solid #8b5cf6;" />
-      <br/>
-      <img src="https://img.shields.io/badge/Asta-8b5cf6?style=flat-square&labelColor=000000" alt="Character 2" />
-    </td>
-    <td align="center" width="33.33%" valign="top">
-      <img src="assets/pngs/Characters/MonkeyDLuffy.jpg" alt="Monkey D Luffy" width="92%" style="max-width:260px;height:auto;border:2px solid #8b5cf6;" />
-      <br/>
-      <img src="https://img.shields.io/badge/Monkey_D_Luffy-8b5cf6?style=flat-square&labelColor=000000" alt="Character 3" />
-    </td>
-  </tr>
-</table>
 
 <br/>
 
@@ -114,6 +34,99 @@
 
 <br/>
 
+<!-- ABOUT ME -->
+<div align="center">
+  <img src="https://img.shields.io/badge/ABOUT_ME-8b5cf6?style=for-the-badge&labelColor=000000" alt="About Me" />
+</div>
+
+<br/>
+
+<table align="center" width="100%" cellpadding="20" cellspacing="0" style="max-width:1100px;border:1px solid #8b5cf6;background:#06030b;">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        I'm a <strong>game developer and designer</strong> with a Bachelor of Information Science in Game Design & Development (NQF 7) and a BA Honours in Design Leadership (NQF 8) — both from Emeris Vega. My work spans the full development pipeline: from concept and system design through to Unity/Unreal implementation, shaders, and UI/UX, with a research background in VR education that earned a published thesis.
+      </p>
+      <p>
+        I'm passionate about building immersive, playable systems that feel alive — whether that's a real-time multiplayer experience, a narrative-driven indie title, or an interactive prototype that pushes the medium forward. I bring both the technical rigor of a programmer and the creative vision of a designer.
+      </p>
+      <p>
+        Currently seeking <strong>international opportunities</strong> in game development, interactive design, or UI/UX — roles where quality of craft matters. My portfolio showcases shipped projects and research across Unity, Unreal, C#, and beyond.
+      </p>
+      <p>
+        📄 <a href="https://doi.org/10.13140/RG.2.2.32898.95688">Published Honours Thesis</a> &nbsp;|&nbsp;
+        🌐 <a href="https://mattverstappen.github.io/">Portfolio</a> &nbsp;|&nbsp;
+        🎓 Emeris Vega Graduate
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- CURRENTLY -->
+<div align="center">
+  <img src="https://img.shields.io/badge/CURRENTLY-22d3ee?style=for-the-badge&labelColor=000000" alt="Currently" />
+</div>
+
+<br/>
+
+<table align="center" width="100%" cellpadding="16" cellspacing="0" style="max-width:1100px;border:1px solid #22d3ee;background:#04060a;">
+  <tr>
+    <td align="left" valign="top" width="50%">
+      <img src="https://img.shields.io/badge/BUILDING-8b5cf6?style=flat-square&labelColor=000000" alt="Building" /><br/>
+      &nbsp;&nbsp;🎮 Showcase2025 — Unity game dev showcase project<br/>
+      &nbsp;&nbsp;🌐 Portfolio v2 — expanding mattverstappen.github.io<br/>
+      &nbsp;&nbsp;⚙️ Unity Reusable Assets library
+    </td>
+    <td align="left" valign="top" width="50%">
+      <img src="https://img.shields.io/badge/OPEN_TO-00d26a?style=flat-square&labelColor=000000" alt="Open to" /><br/>
+      &nbsp;&nbsp;💼 Full-time game developer / designer roles<br/>
+      &nbsp;&nbsp;🌍 International & remote positions<br/>
+      &nbsp;&nbsp;🤝 Indie collaborations & contract work
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- CONNECT -->
+<div align="center">
+  <img src="https://img.shields.io/badge/CONNECT_WITH_ME-8b5cf6?style=for-the-badge&labelColor=000000" alt="Connect" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://mattverstappen.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-mattverstappen.github.io-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=000000" alt="Portfolio" />
+  </a>
+  <a href="mailto:matthewderekrall@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-matthewderekrall%40gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=000000" alt="Email" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/matthew-rall-60b242269" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-matthew--rall-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/mattverstappen" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-MattVerstappen-8b5cf6?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/mattverstappen1" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-mattverstappen1-8b5cf6?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=000000" alt="Instagram" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="assets/banners/separator.svg" alt="Neon separator" width="100%" />
+</div>
+
+<br/>
+
+<!-- TECH STACK -->
 <a id="tech-stack"></a>
 <div align="center">
   <img src="assets/banners/tech-stack.svg" alt="Tech Stack banner" width="100%" />
@@ -154,6 +167,45 @@
 
 <br/>
 
+<!-- FEATURED PROJECTS -->
+<a id="featured-projects"></a>
+<div align="center">
+  <img src="https://img.shields.io/badge/FEATURED_PROJECTS-8b5cf6?style=for-the-badge&labelColor=000000" alt="Featured Projects" />
+</div>
+
+<br/>
+
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MattVerstappen&repo=Showcase2025&theme=tokyonight&hide_border=true)](https://github.com/MattVerstappen/Showcase2025)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MattVerstappen&repo=strategy-integreated-airsoftx&theme=tokyonight&hide_border=true)](https://github.com/MattVerstappen/strategy-integreated-airsoftx)
+
+</div>
+
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MattVerstappen&repo=Unity-Reusable-Assets&theme=tokyonight&hide_border=true)](https://github.com/MattVerstappen/Unity-Reusable-Assets)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MattVerstappen&repo=mattverstappen.github.io&theme=tokyonight&hide_border=true)](https://github.com/MattVerstappen/mattverstappen.github.io)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/MattVerstappen?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/VIEW_ALL_REPOS-8b5cf6?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000" alt="View All Repos" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="assets/banners/separator.svg" alt="Neon separator" width="100%" />
+</div>
+
+<br/>
+
+<!-- GITHUB STATS -->
 <a id="github-stats"></a>
 <div align="center">
   <img src="assets/banners/github-stats.svg" alt="GitHub Stats banner" width="100%" />
@@ -181,6 +233,7 @@
 
 <br/>
 
+<!-- ACADEMIC BACKGROUND -->
 <a id="academic-background"></a>
 <div align="center">
   <img src="assets/banners/academics.svg" alt="Academic Background banner" width="100%" />
@@ -193,11 +246,9 @@
       <br/>
       <strong>Bachelor of Information Science in Game Design and Game Development</strong>
       <br/>
-      NQF Level: 7
+      NQF Level: 7 &nbsp;·&nbsp; Institution: Emeris Vega
       <br/>
-      Institution: Emeris Vega
-      <br/>
-      Focus: Game Design and Development, Unity, C#, Blender, Photoshop
+      Focus: Game Design, Unity, C#, Blender, Photoshop
     </td>
   </tr>
   <tr>
@@ -206,13 +257,11 @@
       <br/>
       <strong>Bachelor of Arts Honours in Design Leadership</strong>
       <br/>
-      NQF Level: 8
+      NQF Level: 8 &nbsp;·&nbsp; Institution: Emeris Vega
       <br/>
-      Institution: Emeris Vega
+      Thesis: <em>Exploring Virtual Reality in Game Development Education: Student Perspectives on Learning</em>
       <br/>
-      Thesis: Exploring Virtual Reality in Game Development Education: Student Perspectives on Learning
-      <br/>
-      DOI: https://doi.org/10.13140/RG.2.2.32898.95688
+      DOI: <a href="https://doi.org/10.13140/RG.2.2.32898.95688">10.13140/RG.2.2.32898.95688</a>
     </td>
   </tr>
 </table>
@@ -225,38 +274,11 @@
 
 <br/>
 
+<!-- MY BUILD -->
 <a id="my-build"></a>
 <div align="center">
   <img src="assets/banners/build.svg" alt="My Build banner" width="100%" />
 </div>
-<!--
-<table align="center" width="100%" cellpadding="12" cellspacing="0" style="max-width:1100px;border:1px solid #8b5cf6;background:#06030b;">
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <img src="https://placehold.co/800x500/000000/8b5cf6?text=SETUP+01" alt="Setup 1" width="98%" style="max-width:560px;height:auto;border:2px solid #8b5cf6;" />
-      <br/>
-      <sub>[Main monitor + workstation]</sub>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <img src="https://placehold.co/800x500/000000/8b5cf6?text=SETUP+02" alt="Setup 2" width="98%" style="max-width:560px;height:auto;border:2px solid #8b5cf6;" />
-      <br/>
-      <sub>[Peripheral setup]</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <img src="https://placehold.co/800x500/000000/8b5cf6?text=SETUP+03" alt="Setup 3" width="98%" style="max-width:560px;height:auto;border:2px solid #8b5cf6;" />
-      <br/>
-      <sub>[Dev and gaming desk angle]</sub>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <img src="https://placehold.co/800x500/000000/8b5cf6?text=SETUP+04" alt="Setup 4" width="98%" style="max-width:560px;height:auto;border:2px solid #8b5cf6;" />
-      <br/>
-      <sub>[Lighting and ambiance]</sub>
-    </td>
-  </tr>
-</table>
--->
 
 <table align="center" width="100%" cellpadding="12" cellspacing="0" style="max-width:1100px;border:1px solid #22d3ee;background:#04060a;">
   <tr>
@@ -265,10 +287,10 @@
       <br/><br/>
       <table align="center" width="100%" cellpadding="6" cellspacing="0">
         <tr><td><strong>Motherboard</strong></td><td>MPG X870E EDGE TI WIFI</td></tr>
-        <tr><td><strong>CPU</strong></td><td>AMD Ryzen 9 9950X3D 16-Core Processor, 4300 MHz, 16 Cores, 32 Logical Processors</td></tr>
-        <tr><td><strong>GPU</strong></td><td>NVIDIA GeForce RTX 5070 Ti - 16 GB</td></tr>
-        <tr><td><strong>RAM</strong></td><td>32GB DDR5 Kingston Fury Beast 6000MT/s</td></tr>
-        <tr><td><strong>Storage</strong></td><td>WD Black SN850X SSD, 1TB, NVMe, Heatsink, M.2 2280 PCIe Gen4x4, Read 7300 MB/s, Write 6600 MB/s</td></tr>
+        <tr><td><strong>CPU</strong></td><td>AMD Ryzen 9 9950X3D · 16-Core · 32 Threads · 4300 MHz</td></tr>
+        <tr><td><strong>GPU</strong></td><td>NVIDIA GeForce RTX 5070 Ti · 16 GB</td></tr>
+        <tr><td><strong>RAM</strong></td><td>32 GB DDR5 Kingston Fury Beast · 6000 MT/s</td></tr>
+        <tr><td><strong>Storage</strong></td><td>WD Black SN850X · 1 TB NVMe M.2 · 7300/6600 MB/s</td></tr>
         <tr><td><strong>PSU</strong></td><td>Corsair RM1000e</td></tr>
         <tr><td><strong>Cooling</strong></td><td>Nautilus 360 RS LCD</td></tr>
         <tr><td><strong>Case</strong></td><td>Corsair Frame 4000 Series</td></tr>
@@ -278,16 +300,74 @@
       <img src="https://img.shields.io/badge/PERIPHERALS-22d3ee?style=for-the-badge&labelColor=000000" alt="Peripherals" />
       <br/><br/>
       <table align="center" width="100%" cellpadding="6" cellspacing="0">
-        <tr><td><strong>Monitor 1</strong></td><td>Samsung Odyssey G5 32 inch 165Hz</td></tr>
-        <tr><td><strong>Monitor 2</strong></td><td>[Add Monitor]</td></tr>
+        <tr><td><strong>Monitor</strong></td><td>Samsung Odyssey G5 · 32" · 165 Hz</td></tr>
         <tr><td><strong>Keyboard</strong></td><td>Corsair K95 Platinum XT</td></tr>
         <tr><td><strong>Mouse</strong></td><td>Corsair M65 Pro</td></tr>
-        <tr><td><strong>Mouse Pad</strong></td><td>Glorious XXXL Mouse Pad</td></tr>
-        <tr><td><strong>Headset</strong></td><td>CORSAIR VIRTUOSO SE Wireless Gaming Headset</td></tr>
-        <tr><td><strong>Mic</strong></td><td>Music DJ M-800 Condenser Microphone</td></tr>
-        <tr><td><strong>Speakers</strong></td><td>[Add Speakers]</td></tr>
-        <tr><td><strong>Controller</strong></td><td>[Add Controller]</td></tr>
+        <tr><td><strong>Mouse Pad</strong></td><td>Glorious XXXL</td></tr>
+        <tr><td><strong>Headset</strong></td><td>Corsair Virtuoso SE Wireless</td></tr>
+        <tr><td><strong>Mic</strong></td><td>Music DJ M-800 Condenser</td></tr>
       </table>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="assets/banners/separator.svg" alt="Neon separator" width="100%" />
+</div>
+
+<br/>
+
+<!-- ANIME INFO (condensed) -->
+<a id="anime-info"></a>
+<div align="center">
+  <img src="assets/banners/anime-info.svg" alt="Anime Info banner" width="100%" />
+</div>
+
+<table align="center" width="100%" cellpadding="8" cellspacing="0" style="max-width:780px;border:1px solid #8b5cf6;background:#06030b;">
+  <tr>
+    <td align="center" colspan="3">
+      <img src="https://img.shields.io/badge/TOP_3_ANIME-22d3ee?style=flat-square&labelColor=000000" alt="Top 3 Anime" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33.33%" valign="top">
+      <img src="assets/pngs/Anime/ThatTimeIGotReincarnatedAsASlime.jpg" alt="That Time I Got Reincarnated As A Slime" width="92%" style="max-width:200px;height:auto;border:2px solid #8b5cf6;" />
+      <br/>
+      <sub>That Time I Got Reincarnated As A Slime</sub>
+    </td>
+    <td align="center" width="33.33%" valign="top">
+      <img src="assets/pngs/Anime/WelcomeToTheDemonSchoolIruma-kun.jpg" alt="Welcome To The Demon School Iruma-kun" width="92%" style="max-width:200px;height:auto;border:2px solid #8b5cf6;" />
+      <br/>
+      <sub>Welcome To The Demon School Iruma-kun</sub>
+    </td>
+    <td align="center" width="33.33%" valign="top">
+      <img src="assets/pngs/Anime/MashleMagicAndMuscles.jpg" alt="Mashle: Magic And Muscles" width="92%" style="max-width:200px;height:auto;border:2px solid #8b5cf6;" />
+      <br/>
+      <sub>Mashle: Magic And Muscles</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <img src="https://img.shields.io/badge/TOP_3_CHARACTERS-22d3ee?style=flat-square&labelColor=000000" alt="Top 3 Characters" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33.33%" valign="top">
+      <img src="assets/pngs/Characters/rimuru_tempest.jpg" alt="Rimuru Tempest" width="92%" style="max-width:200px;height:auto;border:2px solid #8b5cf6;" />
+      <br/>
+      <sub>Rimuru Tempest</sub>
+    </td>
+    <td align="center" width="33.33%" valign="top">
+      <img src="assets/pngs/Characters/asta.jpg" alt="Asta" width="92%" style="max-width:200px;height:auto;border:2px solid #8b5cf6;" />
+      <br/>
+      <sub>Asta</sub>
+    </td>
+    <td align="center" width="33.33%" valign="top">
+      <img src="assets/pngs/Characters/MonkeyDLuffy.jpg" alt="Monkey D Luffy" width="92%" style="max-width:200px;height:auto;border:2px solid #8b5cf6;" />
+      <br/>
+      <sub>Monkey D. Luffy</sub>
     </td>
   </tr>
 </table>
