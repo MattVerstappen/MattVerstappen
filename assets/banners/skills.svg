@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" width="800" height="380" role="img" aria-label="Skill proficiency chart">
+  <defs>
+
+    <!-- Bar fill gradient: accent → electric violet -->
+    <linearGradient id="bar-grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#9333EA"/>
+      <stop offset="100%" stop-color="#C026D3"/>
+    </linearGradient>
+
+    <!-- Background gradient -->
+    <linearGradient id="bg-grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#1A1025"/>
+      <stop offset="100%" stop-color="#0D0A14"/>
+    </linearGradient>
+
+    <!-- Subtle bar glow -->
+    <filter id="bar-glow" x="-5%" y="-40%" width="110%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      /*
+        Each fill bar is pre-drawn at its target width.
+        scaleX(0 → 1) from the left edge simulates a fill animation.
+        transform-box + transform-origin pin the scale origin to the left centre.
+      */
+      @keyframes bar-expand {
+        from { transform: scaleX(0); }
+        to   { transform: scaleX(1); }
+      }
+
+      .bar-fill {
+        transform-box: fill-box;
+        transform-origin: left center;
+        animation: bar-expand 1.6s cubic-bezier(0.4, 0, 0.2, 1) both;
+      }
+
+      /* Staggered delays for cascade effect */
+      .bar-1 { animation-delay: 0.15s; }
+      .bar-2 { animation-delay: 0.30s; }
+      .bar-3 { animation-delay: 0.45s; }
+      .bar-4 { animation-delay: 0.60s; }
+      .bar-5 { animation-delay: 0.75s; }
+      .bar-6 { animation-delay: 0.90s; }
+
+      /* Pulsing percentage labels after bars finish */
+      @keyframes pct-fade-in {
+        from { opacity: 0; }
+        to   { opacity: 1; }
+      }
+      .pct-1 { animation: pct-fade-in 0.4s ease 1.75s both; }
+      .pct-2 { animation: pct-fade-in 0.4s ease 1.90s both; }
+      .pct-3 { animation: pct-fade-in 0.4s ease 2.05s both; }
+      .pct-4 { animation: pct-fade-in 0.4s ease 2.20s both; }
+      .pct-5 { animation: pct-fade-in 0.4s ease 2.35s both; }
+      .pct-6 { animation: pct-fade-in 0.4s ease 2.50s both; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="380" fill="url(#bg-grad)" rx="12"/>
+
+  <!-- Border -->
+  <rect x="1" y="1" width="798" height="378" fill="none" stroke="#9333EA" stroke-width="1.5" rx="11" opacity="0.7"/>
+
+  <!-- Title -->
+  <text x="400" y="40"
+        text-anchor="middle"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="15" font-weight="700"
+        fill="#F1E8FF" letter-spacing="4">SKILL PROFICIENCY</text>
+
+  <!-- Divider under title -->
+  <line x1="140" y1="56" x2="660" y2="56" stroke="#3B1F5E" stroke-width="1"/>
+
+  <!--
+    Layout:
+      Skill label  x=20   (left-aligned)
+      Track start  x=160, width=500
+      Pct label    x=678  (right-aligned)
+      Bar height   18px, rx=9
+      Row spacing  50px
+      First barY   82
+  -->
+
+  <!-- ─── ROW 1: Unity 90% ─── -->
+  <text x="20" y="97"
+        font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600"
+        fill="#C4B0E0">Unity</text>
+  <!-- Track -->
+  <rect x="160" y="82" width="500" height="18" rx="9" fill="#221633"/>
+  <!-- Fill (90% = 450px) -->
+  <rect class="bar-fill bar-1"
+        x="160" y="82" width="450" height="18" rx="9"
+        fill="url(#bar-grad)" filter="url(#bar-glow)"/>
+  <!-- Percentage -->
+  <text class="pct-1" x="678" y="97"
+        font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700"
+        fill="#9333EA" text-anchor="start" opacity="0">90%</text>
+
+  <!-- ─── ROW 2: C# 85% ─── -->
+  <text x="20" y="147"
+        font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600"
+        fill="#C4B0E0">C#</text>
+  <rect x="160" y="132" width="500" height="18" rx="9" fill="#221633"/>
+  <rect class="bar-fill bar-2"
+        x="160" y="132" width="425" height="18" rx="9"
+        fill="url(#bar-grad)" filter="url(#bar-glow)"/>
+  <text class="pct-2" x="678" y="147"
+        font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700"
+        fill="#9333EA" text-anchor="start" opacity="0">85%</text>
+
+  <!-- ─── ROW 3: Blender 75% ─── -->
+  <text x="20" y="197"
+        font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600"
+        fill="#C4B0E0">Blender</text>
+  <rect x="160" y="182" width="500" height="18" rx="9" fill="#221633"/>
+  <rect class="bar-fill bar-3"
+        x="160" y="182" width="375" height="18" rx="9"
+        fill="url(#bar-grad)" filter="url(#bar-glow)"/>
+  <text class="pct-3" x="678" y="197"
+        font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700"
+        fill="#9333EA" text-anchor="start" opacity="0">75%</text>
+
+  <!-- ─── ROW 4: Python 70% ─── -->
+  <text x="20" y="247"
+        font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600"
+        fill="#C4B0E0">Python</text>
+  <rect x="160" y="232" width="500" height="18" rx="9" fill="#221633"/>
+  <rect class="bar-fill bar-4"
+        x="160" y="232" width="350" height="18" rx="9"
+        fill="url(#bar-grad)" filter="url(#bar-glow)"/>
+  <text class="pct-4" x="678" y="247"
+        font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700"
+        fill="#9333EA" text-anchor="start" opacity="0">70%</text>
+
+  <!-- ─── ROW 5: React 65% ─── -->
+  <text x="20" y="297"
+        font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600"
+        fill="#C4B0E0">React</text>
+  <rect x="160" y="282" width="500" height="18" rx="9" fill="#221633"/>
+  <rect class="bar-fill bar-5"
+        x="160" y="282" width="325" height="18" rx="9"
+        fill="url(#bar-grad)" filter="url(#bar-glow)"/>
+  <text class="pct-5" x="678" y="297"
+        font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700"
+        fill="#9333EA" text-anchor="start" opacity="0">65%</text>
+
+  <!-- ─── ROW 6: Unreal 60% ─── -->
+  <text x="20" y="347"
+        font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600"
+        fill="#C4B0E0">Unreal</text>
+  <rect x="160" y="332" width="500" height="18" rx="9" fill="#221633"/>
+  <rect class="bar-fill bar-6"
+        x="160" y="332" width="300" height="18" rx="9"
+        fill="url(#bar-grad)" filter="url(#bar-glow)"/>
+  <text class="pct-6" x="678" y="347"
+        font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700"
+        fill="#9333EA" text-anchor="start" opacity="0">60%</text>
+</svg>
