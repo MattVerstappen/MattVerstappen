@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="https://matthewderekrall.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_VIEW_MY_PORTFOLIO-9333EA?style=for-the-badge&logoColor=ffffff&labelColor=0D0A14&color=9333EA" alt="Portfolio" height="38" />
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90_VIEW_MY_PORTFOLIO-9333EA?style=for-the-badge&logoColor=ffffff&labelColor=0D0A14&color=9333EA" alt="Portfolio" height="38" />
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/OPEN_TO_WORK-00d26a?style=for-the-badge&labelColor=0D0A14" alt="Open to Work" height="38" />
@@ -90,6 +90,15 @@
 
 <br/>
 
+<!-- CURRENTLY PLAYING / WATCHING -->
+<div align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AE_CURRENTLY_PLAYING-Elden_Ring-9333EA?style=for-the-badge&labelColor=0D0A14" alt="Currently Playing: Elden Ring" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/%F0%9F%93%BA_CURRENTLY_WATCHING-Slime_Isekai_S3-C026D3?style=for-the-badge&labelColor=0D0A14" alt="Currently Watching: That Time I Got Reincarnated As A Slime S3" />
+</div>
+
+<br/>
+
 <!-- CONNECT -->
 <div align="center">
   <img src="https://img.shields.io/badge/CONNECT_WITH_ME-9333EA?style=for-the-badge&labelColor=0D0A14" alt="Connect" />
@@ -116,6 +125,15 @@
   <a href="https://instagram.com/mattverstappen1" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-mattverstappen1-9333EA?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=0D0A14" alt="Instagram" />
   </a>
+</div>
+
+<br/>
+
+<!-- RELOCATION / AVAILABILITY -->
+<div align="center">
+  <img src="https://img.shields.io/badge/RELOCATING_TO-%F0%9F%87%BA%F0%9F%87%B8_USA-C026D3?style=for-the-badge&labelColor=0D0A14" alt="Relocating to USA" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/AVAILABLE_FOR-OPPORTUNITIES-9333EA?style=for-the-badge&labelColor=0D0A14" alt="Available for Opportunities" />
 </div>
 
 <br/>
@@ -161,6 +179,13 @@
 
 <br/>
 
+<!-- SKILL PROFICIENCY BARS -->
+<div align="center">
+  <img src="assets/banners/skills.svg" alt="Skill proficiency animated bars" width="100%" style="max-width:800px;" />
+</div>
+
+<br/>
+
 <div align="center">
   <img src="assets/banners/separator.svg" alt="Neon separator" width="100%" />
 </div>
@@ -194,6 +219,28 @@
 <div align="center">
   <a href="https://github.com/MattVerstappen?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/VIEW_ALL_REPOS-9333EA?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0D0A14" alt="View All Repos" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="assets/banners/separator.svg" alt="Neon separator" width="100%" />
+</div>
+
+<br/>
+
+<!-- CONTRIBUTION SNAKE -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MattVerstappen/MattVerstappen/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph snake animation" width="100%" />
+</div>
+
+<br/>
+
+<!-- GITHUB TROPHIES -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MattVerstappen&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="100%" />
   </a>
 </div>
 
@@ -258,10 +305,16 @@
       <strong>Bachelor of Arts Honours in Design Leadership</strong>
       <br/>
       NQF Level: 8 &nbsp;·&nbsp; Institution: Emeris Vega
+      <br/><br/>
+      <blockquote>
+        <strong>📖 Published Research</strong><br/>
+        <em>Exploring Virtual Reality in Game Development Education: Student Perspectives on Learning</em><br/>
+        Honours Thesis &nbsp;·&nbsp; Emeris Vega &nbsp;·&nbsp; ResearchGate
+      </blockquote>
       <br/>
-      Thesis: <em>Exploring Virtual Reality in Game Development Education: Student Perspectives on Learning</em>
-      <br/>
-      DOI: <a href="https://doi.org/10.13140/RG.2.2.32898.95688">10.13140/RG.2.2.32898.95688</a>
+      <a href="https://doi.org/10.13140/RG.2.2.32898.95688">
+        <img src="https://img.shields.io/badge/THESIS-Read%20Published%20Research-9333EA?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=0D0A14" alt="Read Published Research" />
+      </a>
     </td>
   </tr>
 </table>
