@@ -298,6 +298,10 @@
 </div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/MattVerstappen/MattVerstappen/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution graph snake" width="100%" />
+</div>
+
+<div align="center">
 
 <a href="https://github.com/MattVerstappen">
   <img src="assets/profile-cards/development-focus-card.svg" alt="Matt Verstappen development focus card" width="420" />
