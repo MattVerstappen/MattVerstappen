@@ -342,30 +342,56 @@
 
 <br/>
 
-<table align="center" width="100%" cellpadding="8" cellspacing="0">
-  <tr>
-    <td align="center" colspan="3">
-      <strong>Anime inspirations</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33.33%" valign="top">
-      <img src="assets/pngs/Anime/ThatTimeIGotReincarnatedAsASlime.jpg" alt="That Time I Got Reincarnated As A Slime poster" width="92%" />
-      <br/>
-      <sub>That Time I Got Reincarnated As A Slime</sub>
-    </td>
-    <td align="center" width="33.33%" valign="top">
-      <img src="assets/pngs/Anime/WelcomeToTheDemonSchoolIruma-kun.jpg" alt="Welcome To The Demon School Iruma-kun poster" width="92%" />
-      <br/>
-      <sub>Welcome To The Demon School Iruma-kun</sub>
-    </td>
-    <td align="center" width="33.33%" valign="top">
-      <img src="assets/pngs/Anime/MashleMagicAndMuscles.jpg" alt="Mashle Magic And Muscles poster" width="92%" />
-      <br/>
-      <sub>Mashle: Magic And Muscles</sub>
-    </td>
-  </tr>
-</table>
+<details>
+  <summary><strong>Anime inspirations and favourite characters</strong></summary>
+  <br/>
+  <table align="center" width="100%" cellpadding="8" cellspacing="0">
+    <tr>
+      <td align="center" colspan="3">
+        <strong>Top anime</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33.33%" valign="top">
+        <img src="assets/pngs/Anime/ThatTimeIGotReincarnatedAsASlime.jpg" alt="That Time I Got Reincarnated As A Slime poster" width="92%" />
+        <br/>
+        <sub>That Time I Got Reincarnated As A Slime</sub>
+      </td>
+      <td align="center" width="33.33%" valign="top">
+        <img src="assets/pngs/Anime/WelcomeToTheDemonSchoolIruma-kun.jpg" alt="Welcome To The Demon School Iruma-kun poster" width="92%" />
+        <br/>
+        <sub>Welcome To The Demon School Iruma-kun</sub>
+      </td>
+      <td align="center" width="33.33%" valign="top">
+        <img src="assets/pngs/Anime/MashleMagicAndMuscles.jpg" alt="Mashle Magic And Muscles poster" width="92%" />
+        <br/>
+        <sub>Mashle: Magic And Muscles</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="3">
+        <strong>Favourite characters</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33.33%" valign="top">
+        <img src="assets/pngs/Characters/rimuru_tempest.jpg" alt="Rimuru Tempest character image" width="92%" />
+        <br/>
+        <sub>Rimuru Tempest</sub>
+      </td>
+      <td align="center" width="33.33%" valign="top">
+        <img src="assets/pngs/Characters/asta.jpg" alt="Asta character image" width="92%" />
+        <br/>
+        <sub>Asta</sub>
+      </td>
+      <td align="center" width="33.33%" valign="top">
+        <img src="assets/pngs/Characters/MonkeyDLuffy.jpg" alt="Monkey D. Luffy character image" width="92%" />
+        <br/>
+        <sub>Monkey D. Luffy</sub>
+      </td>
+    </tr>
+  </table>
+</details>
 
 <br/>
 
@@ -421,7 +447,7 @@
 
 <div align="center">
   <p>
-    Interested in game development, interactive design, UI/UX, or creative technical work?
+    Interested in game development, interactive design, UI/UX, remote work, or international opportunities?
     <br/>
     Explore my portfolio or reach out about opportunities and collaborations.
   </p>
@@ -433,6 +459,9 @@
   </a>
   <a href="https://linkedin.com/in/matthew-rall-60b242269" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-matthew--rall-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0D0A14" alt="Connect with Matthew on LinkedIn" />
+  </a>
+  <a href="https://github.com/MattVerstappen" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-MattVerstappen-181717?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0D0A14" alt="Matt Verstappen GitHub profile" />
   </a>
   <a href="https://instagram.com/mattverstappen1" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-mattverstappen1-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=0D0A14" alt="Instagram profile" />
