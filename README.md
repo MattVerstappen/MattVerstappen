@@ -297,6 +297,13 @@
   <img src="assets/banners/github-stats.svg" alt="GitHub stats banner" width="100%" />
 </div>
 
+<table align="center" width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+      </tr align= "center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mattverstappen&theme=tokyonight&hide_border=true" alt="Matt Verstappen GitHub contribution streak"/>
+  </tr>
+</table>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/MattVerstappen/MattVerstappen/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution graph snake" width="100%" />
 </div>
