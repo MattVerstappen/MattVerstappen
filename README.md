@@ -67,6 +67,28 @@
 
 <br/>
 
+<table align="center" width="100%" cellpadding="14" cellspacing="0">
+  <tr>
+    <td align="center" valign="top" width="33.33%">
+      <strong>Game Development</strong>
+      <br/>
+      Unity, C#, gameplay systems, prototypes, interaction design
+    </td>
+    <td align="center" valign="top" width="33.33%">
+      <strong>Design Thinking</strong>
+      <br/>
+      Game design, UI/UX, player experience, visual identity
+    </td>
+    <td align="center" valign="top" width="33.33%">
+      <strong>Research Mindset</strong>
+      <br/>
+      Honours research, VR education, reflective design practice
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <!-- CURRENT FOCUS -->
 <div align="center">
   <img src="https://img.shields.io/badge/Current_Focus-C026D3?style=for-the-badge&labelColor=0D0A14" alt="Current Focus" />
@@ -121,26 +143,34 @@
 <table align="center" width="100%" cellpadding="14" cellspacing="0">
   <tr>
     <td align="left" valign="top" width="50%">
+      <img src="https://img.shields.io/badge/Unity_Showcase-9333EA?style=flat-square&labelColor=0D0A14" alt="Unity showcase project" />
+      <br/>
       <strong><a href="https://github.com/MattVerstappen/Showcase2025">Showcase2025</a></strong>
       <br/>
-      Unity-focused showcase work for game systems, interaction design, and portfolio development.
+      A Unity-focused showcase for game systems, interaction design, and portfolio-ready development work.
     </td>
     <td align="left" valign="top" width="50%">
+      <img src="https://img.shields.io/badge/Unity_Tooling-C026D3?style=flat-square&labelColor=0D0A14" alt="Unity tooling project" />
+      <br/>
       <strong><a href="https://github.com/MattVerstappen/Unity-Reusable-Assets">Unity Reusable Assets</a></strong>
       <br/>
-      Reusable Unity assets and tooling intended to speed up prototyping and production workflows.
+      Reusable Unity assets and tooling for faster prototyping, iteration, and production workflows.
     </td>
   </tr>
   <tr>
     <td align="left" valign="top" width="50%">
+      <img src="https://img.shields.io/badge/Interactive_Systems-9333EA?style=flat-square&labelColor=0D0A14" alt="Interactive systems project" />
+      <br/>
       <strong><a href="https://github.com/MattVerstappen/strategy-integreated-airsoftx">Strategy Integrated AirsoftX</a></strong>
       <br/>
-      Interactive strategy-focused project work with an emphasis on systems thinking and user experience.
+      Strategy-focused project work that shows systems thinking, planning, and user experience awareness.
     </td>
     <td align="left" valign="top" width="50%">
+      <img src="https://img.shields.io/badge/Portfolio_Web-C026D3?style=flat-square&labelColor=0D0A14" alt="Portfolio website project" />
+      <br/>
       <strong><a href="https://github.com/MattVerstappen/mattverstappen.github.io">Portfolio Website</a></strong>
       <br/>
-      Personal portfolio site for presenting development work, research, and creative technical projects.
+      The web home for development work, research, and creative technical projects.
     </td>
   </tr>
 </table>
