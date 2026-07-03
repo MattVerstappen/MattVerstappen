@@ -179,15 +179,25 @@
 
 <div align="center">
 
-[![mdr-unity-toolkit repository card](https://github-readme-stats.vercel.app/api/pin/?username=MattVerstappen&repo=mdr-unity-toolkit&theme=tokyonight&hide_border=true)](https://github.com/MattVerstappen/mdr-unity-toolkit)
-[![StudentSiteBuilder repository card](https://github-readme-stats.vercel.app/api/pin/?username=MattVerstappen&repo=StudentSiteBuilder&theme=tokyonight&hide_border=true)](https://github.com/MattVerstappen/StudentSiteBuilder)
+<a href="https://github.com/MattVerstappen/mdr-unity-toolkit">
+  <img src="assets/repo-cards/mdr-unity-toolkit-card.svg" alt="MDR Unity Toolkit repository card" width="420" />
+</a>
+<a href="https://github.com/MattVerstappen/StudentSiteBuilder">
+  <img src="assets/repo-cards/studentsitebuilder-card.svg" alt="StudentSiteBuilder repository card" width="420" />
+</a>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-[![mattverstappen.github.io repository card](https://github-readme-stats.vercel.app/api/pin/?username=MattVerstappen&repo=mattverstappen.github.io&theme=tokyonight&hide_border=true)](https://github.com/MattVerstappen/mattverstappen.github.io)
-[![Reusable-Movement repository card](https://github-readme-stats.vercel.app/api/pin/?username=MattVerstappen&repo=Reusable-Movement&theme=tokyonight&hide_border=true)](https://github.com/MattVerstappen/Reusable-Movement)
+<a href="https://github.com/MattVerstappen/mattverstappen.github.io">
+  <img src="assets/repo-cards/portfolio-website-card.svg" alt="Portfolio Website repository card" width="420" />
+</a>
+<a href="https://github.com/MattVerstappen/Reusable-Movement">
+  <img src="assets/repo-cards/reusable-movement-card.svg" alt="Reusable Movement repository card" width="420" />
+</a>
 
 </div>
 
