@@ -91,32 +91,28 @@
 
 <!-- CURRENT FOCUS -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Currently_Building-C026D3?style=for-the-badge&labelColor=0D0A14" alt="Currently Building" />
+  <img src="https://img.shields.io/badge/Currently_Building_%26_Best_First_Look-C026D3?style=for-the-badge&labelColor=0D0A14" alt="Currently Building and Best First Look" />
 </div>
 
 <br/>
 
-<table align="center" width="100%" cellpadding="14" cellspacing="0">
+<table align="center" width="100%" cellpadding="8" cellspacing="0">
   <tr>
     <td align="left" valign="top" width="50%">
-      <strong>Active project focus</strong>
-      <br/><br/>
-      - A Unity toolkit for reusable gameplay systems and editor tooling<br/>
-      - StudentSiteBuilder, a C# desktop app for student portfolio websites<br/>
-      - My personal portfolio website with interactive projects and creative coding experiments<br/>
-      - Polished Unity prototypes for gameplay, movement, UI, and systems design
+      <strong>Currently Building</strong>
+      <br/>
+      Unity tooling, StudentSiteBuilder, portfolio projects, and polished gameplay prototypes.
     </td>
     <td align="left" valign="top" width="50%">
-      <strong>Open to</strong>
-      <br/><br/>
-      - Game developer / game designer roles<br/>
-      - Interactive design and UI/UX opportunities<br/>
-      - Remote, international, USA-based, contract, or studio work
+      <strong>Best First Look</strong>
+      <br/>
+      <a href="https://matthewderekrall.com/">Portfolio</a> &middot;
+      <a href="https://github.com/MattVerstappen/mdr-unity-toolkit">Unity Toolkit</a> &middot;
+      <a href="https://github.com/MattVerstappen/StudentSiteBuilder">StudentSiteBuilder</a> &middot;
+      <a href="https://github.com/MattVerstappen/Reusable-Movement">Reusable Movement</a>
     </td>
   </tr>
 </table>
-
-<br/>
 
 <div align="center">
   <a href="https://matthewderekrall.com" target="_blank">
@@ -126,42 +122,6 @@
     <img src="https://img.shields.io/badge/Browse_Repositories-181717?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0D0A14" alt="Browse GitHub repositories" />
   </a>
 </div>
-
-<br/>
-
-<!-- BEST FIRST LOOK -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Best_First_Look-9333EA?style=for-the-badge&labelColor=0D0A14" alt="Best First Look" />
-</div>
-
-<br/>
-
-<table align="center" width="100%" cellpadding="12" cellspacing="0">
-  <tr>
-    <td align="left" valign="top" width="50%">
-      <strong><a href="https://matthewderekrall.com/">Portfolio Website</a></strong>
-      <br/>
-      Fastest overview of projects, visuals, writeups, and presentation work.
-    </td>
-    <td align="left" valign="top" width="50%">
-      <strong><a href="https://github.com/MattVerstappen/mdr-unity-toolkit">MDR Unity Toolkit</a></strong>
-      <br/>
-      Best first repo for Unity systems, tooling, and reusable development patterns.
-    </td>
-  </tr>
-  <tr>
-    <td align="left" valign="top" width="50%">
-      <strong><a href="https://github.com/MattVerstappen/StudentSiteBuilder">StudentSiteBuilder</a></strong>
-      <br/>
-      Larger C# desktop app showing product thinking and packaged workflow polish.
-    </td>
-    <td align="left" valign="top" width="50%">
-      <strong><a href="https://github.com/MattVerstappen/Reusable-Movement">Reusable Movement</a></strong>
-      <br/>
-      Compact Unity/C# gameplay component work for movement and prototyping.
-    </td>
-  </tr>
-</table>
 
 <br/>
 
@@ -177,13 +137,12 @@
 
 <br/>
 
-<table align="center" width="100%" cellpadding="14" cellspacing="0">
+<table align="center" width="100%" cellpadding="10" cellspacing="0">
   <tr>
     <td align="left" valign="top" width="50%">
       <a href="https://github.com/MattVerstappen/mdr-unity-toolkit">
         <img src="assets/repo-cards/mdr-unity-toolkit-card.svg" alt="MDR Unity Toolkit repository card" width="100%" />
       </a>
-      <br/>
       <br/>
       <img src="https://img.shields.io/badge/Unity_Tooling-9333EA?style=flat-square&labelColor=0D0A14" alt="Unity tooling repository" />
       <br/>
@@ -195,7 +154,6 @@
       <a href="https://github.com/MattVerstappen/StudentSiteBuilder">
         <img src="assets/repo-cards/studentsitebuilder-card.svg" alt="StudentSiteBuilder repository card" width="100%" />
       </a>
-      <br/>
       <br/>
       <img src="https://img.shields.io/badge/C%23_Desktop_App-C026D3?style=flat-square&labelColor=0D0A14" alt="C Sharp desktop application repository" />
       <br/>
@@ -210,7 +168,6 @@
         <img src="assets/repo-cards/portfolio-website-card.svg" alt="Portfolio Website repository card" width="100%" />
       </a>
       <br/>
-      <br/>
       <img src="https://img.shields.io/badge/Portfolio_Web-9333EA?style=flat-square&labelColor=0D0A14" alt="Portfolio website repository" />
       <br/>
       <strong><a href="https://github.com/MattVerstappen/mattverstappen.github.io">Portfolio Website</a></strong>
@@ -221,7 +178,6 @@
       <a href="https://github.com/MattVerstappen/Reusable-Movement">
         <img src="assets/repo-cards/reusable-movement-card.svg" alt="Reusable Movement repository card" width="100%" />
       </a>
-      <br/>
       <br/>
       <img src="https://img.shields.io/badge/Unity_Component-C026D3?style=flat-square&labelColor=0D0A14" alt="Unity movement component repository" />
       <br/>
@@ -238,7 +194,7 @@
   <strong>Want the fastest overview?</strong>
   <br/>
   Visit my portfolio for project writeups, screenshots, and live work.
-  <br/><br/>
+  <br/>
   <a href="https://matthewderekrall.com/" target="_blank">
     <img src="https://img.shields.io/badge/Open_Portfolio-matthewderekrall.com-9333EA?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=0D0A14" alt="Open Matthew Derek Rall portfolio" />
   </a>
@@ -340,11 +296,13 @@
   <img src="assets/banners/separator.svg" alt="Neon section separator" width="100%" />
 </div>
 
-<!-- GITHUB STATS -->
+<!-- ACTIVITY -->
 <a id="github-stats"></a>
 <div align="center">
-  <img src="assets/banners/github-stats.svg" alt="GitHub stats banner" width="100%" />
+  <img src="https://img.shields.io/badge/Activity-9333EA?style=for-the-badge&labelColor=0D0A14" alt="Activity" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MattVerstappen&theme=tokyonight&hide_border=true" alt="Matt Verstappen GitHub contribution streak" />
@@ -358,20 +316,18 @@
 <div align="center">
 
 <a href="https://github.com/MattVerstappen">
-  <img src="assets/profile-cards/development-focus-card.svg" alt="Matt Verstappen development focus card" width="420" />
+  <img src="assets/profile-cards/development-focus-card.svg" alt="Matt Verstappen development focus card" width="400" />
 </a>
 <a href="https://github.com/MattVerstappen">
-  <img src="assets/profile-cards/tech-stack-card.svg" alt="Matt Verstappen core tech stack card" width="420" />
+  <img src="assets/profile-cards/tech-stack-card.svg" alt="Matt Verstappen core tech stack card" width="400" />
 </a>
 
 </div>
 
-<br/>
-
 <div align="center">
 
 <a href="https://matthewderekrall.com/">
-  <img src="assets/profile-cards/profile-highlights-card.svg" alt="Matt Verstappen profile highlights card" width="420" />
+  <img src="assets/profile-cards/profile-highlights-card.svg" alt="Matt Verstappen profile highlights card" width="400" />
 </a>
 
 </div>
