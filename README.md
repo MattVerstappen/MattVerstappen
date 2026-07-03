@@ -143,34 +143,34 @@
 <table align="center" width="100%" cellpadding="14" cellspacing="0">
   <tr>
     <td align="left" valign="top" width="50%">
-      <img src="https://img.shields.io/badge/Unity_Showcase-9333EA?style=flat-square&labelColor=0D0A14" alt="Unity showcase project" />
+      <img src="https://img.shields.io/badge/Unity_Tooling-9333EA?style=flat-square&labelColor=0D0A14" alt="Unity tooling repository" />
       <br/>
-      <strong><a href="https://github.com/MattVerstappen/Showcase2025">Showcase2025</a></strong>
+      <strong><a href="https://github.com/MattVerstappen/mdr-unity-toolkit">mdr-unity-toolkit</a></strong>
       <br/>
-      A Unity-focused showcase for game systems, interaction design, and portfolio-ready development work.
+      A focused Unity toolkit for reusable game-development systems, editor workflow support, and faster iteration.
     </td>
     <td align="left" valign="top" width="50%">
-      <img src="https://img.shields.io/badge/Unity_Tooling-C026D3?style=flat-square&labelColor=0D0A14" alt="Unity tooling project" />
+      <img src="https://img.shields.io/badge/C%23_Desktop_App-C026D3?style=flat-square&labelColor=0D0A14" alt="C Sharp desktop application repository" />
       <br/>
-      <strong><a href="https://github.com/MattVerstappen/Unity-Reusable-Assets">Unity Reusable Assets</a></strong>
+      <strong><a href="https://github.com/MattVerstappen/StudentSiteBuilder">StudentSiteBuilder</a></strong>
       <br/>
-      Reusable Unity assets and tooling for faster prototyping, iteration, and production workflows.
+      A larger C# desktop application for building student portfolio sites with a practical packaged workflow.
     </td>
   </tr>
   <tr>
     <td align="left" valign="top" width="50%">
-      <img src="https://img.shields.io/badge/Interactive_Systems-9333EA?style=flat-square&labelColor=0D0A14" alt="Interactive systems project" />
+      <img src="https://img.shields.io/badge/Portfolio_Web-9333EA?style=flat-square&labelColor=0D0A14" alt="Portfolio website repository" />
       <br/>
-      <strong><a href="https://github.com/MattVerstappen/strategy-integreated-airsoftx">Strategy Integrated AirsoftX</a></strong>
+      <strong><a href="https://github.com/MattVerstappen/mattverstappen.github.io">mattverstappen.github.io</a></strong>
       <br/>
-      Strategy-focused project work that shows systems thinking, planning, and user experience awareness.
+      The live portfolio website repository for presenting game development, research, and creative technical work.
     </td>
     <td align="left" valign="top" width="50%">
-      <img src="https://img.shields.io/badge/Portfolio_Web-C026D3?style=flat-square&labelColor=0D0A14" alt="Portfolio website project" />
+      <img src="https://img.shields.io/badge/Unity_Component-C026D3?style=flat-square&labelColor=0D0A14" alt="Unity movement component repository" />
       <br/>
-      <strong><a href="https://github.com/MattVerstappen/mattverstappen.github.io">Portfolio Website</a></strong>
+      <strong><a href="https://github.com/MattVerstappen/Reusable-Movement">Reusable-Movement</a></strong>
       <br/>
-      The web home for development work, research, and creative technical projects.
+      A supporting Unity/C# movement component project built around reusable gameplay behaviour.
     </td>
   </tr>
 </table>
@@ -179,15 +179,15 @@
 
 <div align="center">
 
-[![Showcase2025 repository card](https://github-readme-stats.vercel.app/api/pin/?username=MattVerstappen&repo=Showcase2025&theme=tokyonight&hide_border=true)](https://github.com/MattVerstappen/Showcase2025)
-[![Strategy Integrated AirsoftX repository card](https://github-readme-stats.vercel.app/api/pin/?username=MattVerstappen&repo=strategy-integreated-airsoftx&theme=tokyonight&hide_border=true)](https://github.com/MattVerstappen/strategy-integreated-airsoftx)
+[![mdr-unity-toolkit repository card](https://github-readme-stats.vercel.app/api/pin/?username=MattVerstappen&repo=mdr-unity-toolkit&theme=tokyonight&hide_border=true)](https://github.com/MattVerstappen/mdr-unity-toolkit)
+[![StudentSiteBuilder repository card](https://github-readme-stats.vercel.app/api/pin/?username=MattVerstappen&repo=StudentSiteBuilder&theme=tokyonight&hide_border=true)](https://github.com/MattVerstappen/StudentSiteBuilder)
 
 </div>
 
 <div align="center">
 
-[![Unity Reusable Assets repository card](https://github-readme-stats.vercel.app/api/pin/?username=MattVerstappen&repo=Unity-Reusable-Assets&theme=tokyonight&hide_border=true)](https://github.com/MattVerstappen/Unity-Reusable-Assets)
-[![Portfolio website repository card](https://github-readme-stats.vercel.app/api/pin/?username=MattVerstappen&repo=mattverstappen.github.io&theme=tokyonight&hide_border=true)](https://github.com/MattVerstappen/mattverstappen.github.io)
+[![mattverstappen.github.io repository card](https://github-readme-stats.vercel.app/api/pin/?username=MattVerstappen&repo=mattverstappen.github.io&theme=tokyonight&hide_border=true)](https://github.com/MattVerstappen/mattverstappen.github.io)
+[![Reusable-Movement repository card](https://github-readme-stats.vercel.app/api/pin/?username=MattVerstappen&repo=Reusable-Movement&theme=tokyonight&hide_border=true)](https://github.com/MattVerstappen/Reusable-Movement)
 
 </div>
 
