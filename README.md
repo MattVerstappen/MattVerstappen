@@ -91,7 +91,7 @@
 
 <!-- CURRENT FOCUS -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Current_Focus-C026D3?style=for-the-badge&labelColor=0D0A14" alt="Current Focus" />
+  <img src="https://img.shields.io/badge/Currently_Building-C026D3?style=for-the-badge&labelColor=0D0A14" alt="Currently Building" />
 </div>
 
 <br/>
@@ -99,14 +99,15 @@
 <table align="center" width="100%" cellpadding="14" cellspacing="0">
   <tr>
     <td align="left" valign="top" width="50%">
-      <strong>Currently building</strong>
+      <strong>Active project focus</strong>
       <br/><br/>
-      - Showcase2025, a Unity game development showcase project<br/>
-      - Portfolio v2 for <a href="https://matthewderekrall.com">matthewderekrall.com</a><br/>
-      - A Unity reusable assets library for faster prototyping
+      - A Unity toolkit for reusable gameplay systems and editor tooling<br/>
+      - StudentSiteBuilder, a C# desktop app for student portfolio websites<br/>
+      - My personal portfolio website with interactive projects and creative coding experiments<br/>
+      - Polished Unity prototypes for gameplay, movement, UI, and systems design
     </td>
     <td align="left" valign="top" width="50%">
-      <strong>Looking for</strong>
+      <strong>Open to</strong>
       <br/><br/>
       - Game developer / game designer roles<br/>
       - Interactive design and UI/UX opportunities<br/>
@@ -125,6 +126,42 @@
     <img src="https://img.shields.io/badge/Browse_Repositories-181717?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0D0A14" alt="Browse GitHub repositories" />
   </a>
 </div>
+
+<br/>
+
+<!-- BEST FIRST LOOK -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Best_First_Look-9333EA?style=for-the-badge&labelColor=0D0A14" alt="Best First Look" />
+</div>
+
+<br/>
+
+<table align="center" width="100%" cellpadding="12" cellspacing="0">
+  <tr>
+    <td align="left" valign="top" width="50%">
+      <strong><a href="https://matthewderekrall.com/">Portfolio Website</a></strong>
+      <br/>
+      Fastest overview of projects, visuals, writeups, and presentation work.
+    </td>
+    <td align="left" valign="top" width="50%">
+      <strong><a href="https://github.com/MattVerstappen/mdr-unity-toolkit">MDR Unity Toolkit</a></strong>
+      <br/>
+      Best first repo for Unity systems, tooling, and reusable development patterns.
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" width="50%">
+      <strong><a href="https://github.com/MattVerstappen/StudentSiteBuilder">StudentSiteBuilder</a></strong>
+      <br/>
+      Larger C# desktop app showing product thinking and packaged workflow polish.
+    </td>
+    <td align="left" valign="top" width="50%">
+      <strong><a href="https://github.com/MattVerstappen/Reusable-Movement">Reusable Movement</a></strong>
+      <br/>
+      Compact Unity/C# gameplay component work for movement and prototyping.
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -194,6 +231,18 @@
     </td>
   </tr>
 </table>
+
+<br/>
+
+<div align="center">
+  <strong>Want the fastest overview?</strong>
+  <br/>
+  Visit my portfolio for project writeups, screenshots, and live work.
+  <br/><br/>
+  <a href="https://matthewderekrall.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Open_Portfolio-matthewderekrall.com-9333EA?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=0D0A14" alt="Open Matthew Derek Rall portfolio" />
+  </a>
+</div>
 
 <br/>
 
@@ -297,13 +346,11 @@
   <img src="assets/banners/github-stats.svg" alt="GitHub stats banner" width="100%" />
 </div>
 
-<table align="center" width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-      </tr align= "center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mattverstappen&theme=tokyonight&hide_border=true" alt="Matt Verstappen GitHub contribution streak"/>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MattVerstappen&theme=tokyonight&hide_border=true" alt="Matt Verstappen GitHub contribution streak" />
+</div>
 
+<!-- Requires the output/github-contribution-grid-snake-dark.svg file to exist in the repository or output branch. -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/MattVerstappen/MattVerstappen/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution graph snake" width="100%" />
 </div>
